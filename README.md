@@ -3,6 +3,9 @@
 This workshop examines using Sequel to manage the data and the relationships
 found within the Sales Engine application.
 
+* [Sequel](http://sequel.rubyforge.org/)
+* [Sequel ActiveRecord Reference](http://sequel.rubyforge.org/rdoc/files/doc/active_record_rdoc.html)
+
 ## Get the Repository
 
 * Clone this [repository](https://github.com/gSchool/sales_engine-database)
